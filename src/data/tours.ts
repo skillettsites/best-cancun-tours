@@ -15,7 +15,7 @@ export const tours: Tour[] = [
     rating: 4.6,
     reviewCount: 7923,
     imageAlt: 'Cancun: Chichen Itza, Cenote & Valladolid Tour with Lunch — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/1f0d407eebd3e64b87fa30fcdb3c85ff440e758e8f9da3baebcee8c650935a63.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/1f0d407eebd3e64b87fa30fcdb3c85ff440e758e8f9da3baebcee8c650935a63.jpg/145.jpg',
     categories: ['guided-tours'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -48,7 +48,7 @@ export const tours: Tour[] = [
     rating: 5,
     reviewCount: 2,
     imageAlt: 'Isla Mujeres: All-Inclusive Catamaran with Open Bar, Snorkel and Lunch — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/413bbd51bef298c7c8c40472ca02b4541285ac54e809a1a768c1271df4432ddd.png/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/413bbd51bef298c7c8c40472ca02b4541285ac54e809a1a768c1271df4432ddd.png/145.jpg',
     categories: ['food-drink'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -81,7 +81,7 @@ export const tours: Tour[] = [
     rating: 4.2,
     reviewCount: 1026,
     imageAlt: 'Cancun: Jungle ATV Tour, Ziplining, and Cenote Swim — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/c21cbfba345a94496e1eec9faab6f67b76f1723e3c12556845ed662cc8e584c6.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/c21cbfba345a94496e1eec9faab6f67b76f1723e3c12556845ed662cc8e584c6.jpg/145.jpg',
     categories: ['guided-tours'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -114,7 +114,7 @@ export const tours: Tour[] = [
     rating: 4.1,
     reviewCount: 3206,
     imageAlt: 'Isla Mujeres: Catamaran with Open Bar, Snorkeling and Lunch — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/d2134b6e7324f2f3187834536a223b5f1cc7a34eac702c057257ce9b7a75f1f9.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/d2134b6e7324f2f3187834536a223b5f1cc7a34eac702c057257ce9b7a75f1f9.jpg/145.jpg',
     categories: ['food-drink'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -147,7 +147,7 @@ export const tours: Tour[] = [
     rating: 4.2,
     reviewCount: 764,
     imageAlt: 'Cancun & Riviera Maya: ATV, Zipline, & Cenote Combo Tour — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/c692bb8b4dd7b4125f3f96a51f47743befb8396e2c8acd28cb447b54d42b5c4c.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/c692bb8b4dd7b4125f3f96a51f47743befb8396e2c8acd28cb447b54d42b5c4c.jpg/145.jpg',
     categories: ['guided-tours'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -180,7 +180,7 @@ export const tours: Tour[] = [
     rating: 4.5,
     reviewCount: 430,
     imageAlt: 'Cancún: Swim with Whale Sharks — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/4cfd31416a52c.png/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/4cfd31416a52c.png/145.jpg',
     categories: ['top-attractions'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -213,7 +213,7 @@ export const tours: Tour[] = [
     rating: 4.2,
     reviewCount: 722,
     imageAlt: 'Cancun: Coco Bongo Nightclub Experience — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/6115870552d76.jpeg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/6115870552d76.jpeg/145.jpg',
     categories: ['top-attractions'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -246,7 +246,7 @@ export const tours: Tour[] = [
     rating: 5,
     reviewCount: 1,
     imageAlt: 'Exclusive Cancun private yacht sail the Caribbean — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/b363e9c6f225483df78e9d53f45feaffe654a60e3356150aaa706297656981f5.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/b363e9c6f225483df78e9d53f45feaffe654a60e3356150aaa706297656981f5.jpg/145.jpg',
     categories: ['top-attractions'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -279,7 +279,7 @@ export const tours: Tour[] = [
     rating: 5,
     reviewCount: 1,
     imageAlt: '3-in-1 Speedboat: Cancun, Isla Contoy and Isla Mujeres — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/0a6ae1442e7477026597c58f32ba37a9c7a81852382c1e72a220c92bbb95b5ba.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/0a6ae1442e7477026597c58f32ba37a9c7a81852382c1e72a220c92bbb95b5ba.jpg/145.jpg',
     categories: ['top-attractions'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -312,7 +312,7 @@ export const tours: Tour[] = [
     rating: 4.4,
     reviewCount: 260,
     imageAlt: 'Puerto Morelos: National Reef Park Snorkeling & Beach Lunch — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/62ed3a0aa6026daf8f40c5c150fa5d3c661f8451ec2e800c518070088cb87d0d.png/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/62ed3a0aa6026daf8f40c5c150fa5d3c661f8451ec2e800c518070088cb87d0d.png/145.jpg',
     categories: ['top-attractions'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -345,7 +345,7 @@ export const tours: Tour[] = [
     rating: 4.6,
     reviewCount: 405,
     imageAlt: 'From Cancun: Tulum Ruins, Cenote Mariposa & Playa del Carmen — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/7073e3210983c20b4588129f2be1d260451a63b28eb8a9fcf5f45e97b3414858.png/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/7073e3210983c20b4588129f2be1d260451a63b28eb8a9fcf5f45e97b3414858.png/145.jpg',
     categories: ['day-trips'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -378,7 +378,7 @@ export const tours: Tour[] = [
     rating: 4.7,
     reviewCount: 282,
     imageAlt: 'Cancun: Hip Hop Sessions Party Boat Cruise — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/b395a4387fd61e002981ebbf6bf2f40cd6329cc37ef5519db073304e1b53f039.jpeg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/b395a4387fd61e002981ebbf6bf2f40cd6329cc37ef5519db073304e1b53f039.jpeg/145.jpg',
     categories: ['food-drink'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -411,7 +411,7 @@ export const tours: Tour[] = [
     rating: 4.6,
     reviewCount: 1118,
     imageAlt: 'Chichen Itza: Guided Tour with Valladolid & Cenote Chichikan — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/8da7cf5ad0bf9b6102d4f7cc52192ff2ba21353a255f07dee10af51b9c71ad4b.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/8da7cf5ad0bf9b6102d4f7cc52192ff2ba21353a255f07dee10af51b9c71ad4b.jpg/145.jpg',
     categories: ['guided-tours'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -444,7 +444,7 @@ export const tours: Tour[] = [
     rating: 4.8,
     reviewCount: 97,
     imageAlt: 'From Cancun: Xplor Park Entry, Full Day — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/e1d0752d6172e6136872613ad5d74d76223c92dfe0b3abab13992127a662ec2f.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/e1d0752d6172e6136872613ad5d74d76223c92dfe0b3abab13992127a662ec2f.jpg/145.jpg',
     categories: ['skip-the-line'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -477,7 +477,7 @@ export const tours: Tour[] = [
     rating: 4.2,
     reviewCount: 251,
     imageAlt: 'Cancún: Coco Bongo Beach Party Experience — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/51872edf33d68e5b.jpeg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/51872edf33d68e5b.jpeg/145.jpg',
     categories: ['top-attractions'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -510,7 +510,7 @@ export const tours: Tour[] = [
     rating: 4.6,
     reviewCount: 70,
     imageAlt: 'Whale Shark swimming ocean safari all included tour — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/e901077b821cb16fceb26cc2e8d34723a8f9c36eb89787353a8bace37f2a20cc.jpeg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/e901077b821cb16fceb26cc2e8d34723a8f9c36eb89787353a8bace37f2a20cc.jpeg/145.jpg',
     categories: ['guided-tours'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -543,7 +543,7 @@ export const tours: Tour[] = [
     rating: 4.3,
     reviewCount: 91,
     imageAlt: 'From Cancún: Xcaret Park Full Combo! — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/51a57e094edec9130a028dd5d3cbb40eaa19af5e56246f01b37509f3f6fda6f7.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/51a57e094edec9130a028dd5d3cbb40eaa19af5e56246f01b37509f3f6fda6f7.jpg/145.jpg',
     categories: ['day-trips'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -576,7 +576,7 @@ export const tours: Tour[] = [
     rating: 4.5,
     reviewCount: 117,
     imageAlt: 'Cancun: Jetski and Snorkel Adventure — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/f38b38d8a628199182a874bb2fc33ce0ba080e26d5171b0fe2cf171c3ea44197.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/f38b38d8a628199182a874bb2fc33ce0ba080e26d5171b0fe2cf171c3ea44197.jpg/145.jpg',
     categories: ['top-attractions'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -609,7 +609,7 @@ export const tours: Tour[] = [
     rating: 4.3,
     reviewCount: 317,
     imageAlt: 'Isla Mujeres: Catamaran Tour with Open Bar, Snorkeling and Lunch — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/b88c05bf55e078fec16db9d61cbae506aff37ea673d0fbc0d02cb5412e2ec58f.png/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/b88c05bf55e078fec16db9d61cbae506aff37ea673d0fbc0d02cb5412e2ec58f.png/145.jpg',
     categories: ['guided-tours'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -642,7 +642,7 @@ export const tours: Tour[] = [
     rating: 4.6,
     reviewCount: 506,
     imageAlt: 'From Cancún: Rio Lagartos & Las Coloradas Boat Tour w/Lunch — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/d792993741713ab1995a25cde0e0ca68d34edce3f96830d111625fa21b3983bd.png/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/d792993741713ab1995a25cde0e0ca68d34edce3f96830d111625fa21b3983bd.png/145.jpg',
     categories: ['guided-tours'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -675,7 +675,7 @@ export const tours: Tour[] = [
     rating: 4.6,
     reviewCount: 828,
     imageAlt: 'Cancun Airport: One-Way or Roundtrip Private Transfer — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/3f980d0339bdf232ee687e57351f3fe0bfd499254a83e04f568c7639acc7f7f9.jpeg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/3f980d0339bdf232ee687e57351f3fe0bfd499254a83e04f568c7639acc7f7f9.jpeg/145.jpg',
     categories: ['day-trips'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -708,7 +708,7 @@ export const tours: Tour[] = [
     rating: 4.4,
     reviewCount: 278,
     imageAlt: 'Cancun: Tulum & Coba with Cenote, Cave Exploration and Lunch — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/03c5b5c899b624658046211792a9cf3afdf389ea21542dc91cd62894092a0c57.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/03c5b5c899b624658046211792a9cf3afdf389ea21542dc91cd62894092a0c57.jpg/145.jpg',
     categories: ['top-attractions'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -741,7 +741,7 @@ export const tours: Tour[] = [
     rating: 3.7,
     reviewCount: 294,
     imageAlt: 'Cancun: Hop-On-Hop-Off Sightseeing Bus Tour — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/6364099f3f7e3.jpeg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/6364099f3f7e3.jpeg/145.jpg',
     categories: ['guided-tours'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -774,7 +774,7 @@ export const tours: Tour[] = [
     rating: 4.6,
     reviewCount: 775,
     imageAlt: 'From Cancun: Chichen Itza, Cenote & Valladolid Day Trip — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/7040adec7f462d77707439325f7f6b9f45a3db003a77818af5e03b4a096a6ce3.jpg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/7040adec7f462d77707439325f7f6b9f45a3db003a77818af5e03b4a096a6ce3.jpg/145.jpg',
     categories: ['day-trips'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
@@ -807,7 +807,7 @@ export const tours: Tour[] = [
     rating: 4.6,
     reviewCount: 144,
     imageAlt: 'Cancún: Cooking Class and Optional Local Market Tour — Cancun',
-    imageUrl: 'https://cdn.getyourguide.com/img/tour/5cace88223676.jpeg/53.jpg',
+    imageUrl: 'https://cdn.getyourguide.com/img/tour/5cace88223676.jpeg/145.jpg',
     categories: ['guided-tours'],
     highlights: [
       'Booked through GetYourGuide with instant confirmation',
