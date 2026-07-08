@@ -4,7 +4,7 @@ export const tours: Tour[] = [
   {
     slug: 'cancun-chichen-itza-cenote-and-valladolid-tour-with-lunch',
     title: 'Cancun: Chichen Itza, Cenote & Valladolid Tour with Lunch',
-    shortTitle: 'Cancun',
+    shortTitle: 'Chichen Itza, Cenote & Valladolid Tour with Lunch',
     metaTitle: 'Cancun Tickets 2026',
     metaDescription: 'Book Cancun: Chichen Itza, Cenote & Valladolid Tour with Lunch in Cancun. Instant confirmation, free cancellation on most options. Rated 4.6★ by 7,923…',
     description: 'Unlock the mysteries of the Mayans with this full-day tour. Visit Chichén Itzá, take a refreshing dip in a cenote & discover the colonial town of…',
@@ -37,7 +37,7 @@ export const tours: Tour[] = [
   {
     slug: 'isla-mujeres-all-inclusive-catamaran-with-open-bar-snorkel-a',
     title: 'Isla Mujeres: All-Inclusive Catamaran with Open Bar, Snorkel and Lunch',
-    shortTitle: 'Isla Mujeres',
+    shortTitle: 'All-Inclusive Catamaran with Open Bar, Snorkel',
     metaTitle: 'Isla Mujeres Tickets 2026',
     metaDescription: 'Book Isla Mujeres: All-Inclusive Catamaran with Open Bar, Snorkel and Lunch in Cancun. Instant confirmation, free cancellation on most options. Rated 5★ by…',
     description: 'Sail to Isla Mujeres on an amazing catamaran with an open bar, snorkel in crystal clear waters, and enjoy delicious all-inclusive food. Enjoy a day of…',
@@ -70,7 +70,7 @@ export const tours: Tour[] = [
   {
     slug: 'cancun-jungle-atv-tour-ziplining-and-cenote-swim',
     title: 'Cancun: Jungle ATV Tour, Ziplining, and Cenote Swim',
-    shortTitle: 'Cancun',
+    shortTitle: 'Jungle ATV Tour, Ziplining, and Cenote Swim',
     metaTitle: 'Cancun Tickets 2026',
     metaDescription: 'Book Cancun: Jungle ATV Tour, Ziplining, and Cenote Swim in Cancun. Instant confirmation, free cancellation on most options. Rated 4.2★ by 1,026 travellers.',
     description: 'Enjoy a convenient transfer from your hotel and head into the tropical jungle of Riviera Maya for an exciting adventure. Drive through extreme ATV trails…',
@@ -103,7 +103,7 @@ export const tours: Tour[] = [
   {
     slug: 'isla-mujeres-catamaran-with-open-bar-snorkeling-and-lunch',
     title: 'Isla Mujeres: Catamaran with Open Bar, Snorkeling and Lunch',
-    shortTitle: 'Isla Mujeres',
+    shortTitle: 'Catamaran with Open Bar, Snorkeling and Lunch',
     metaTitle: 'Isla Mujeres Tickets 2026',
     metaDescription: 'Book Isla Mujeres: Catamaran with Open Bar, Snorkeling and Lunch in Cancun. Instant confirmation, free cancellation on most options. Rated 4.1★ by 3,206…',
     description: 'Sail along the Caribbean Sea to Isla Mujeres and relax on one of the world’s most beautiful beaches. Relax onboard under the shining sun and enjoy drinks…',
@@ -169,7 +169,7 @@ export const tours: Tour[] = [
   {
     slug: 'canc-n-swim-with-whale-sharks',
     title: 'Cancún: Swim with Whale Sharks',
-    shortTitle: 'Cancún',
+    shortTitle: 'Swim with Whale Sharks',
     metaTitle: 'Cancún Tickets 2026',
     metaDescription: 'Book Cancún: Swim with Whale Sharks in Cancun. Instant confirmation, free cancellation on most options. Rated 4.5★ by 430 travellers.',
     description: 'Tick another thing off your bucket list and swim with whale sharks off the coast of Cancun on a thrilling guided trip. Witness whale sharks that can get…',
@@ -202,7 +202,7 @@ export const tours: Tour[] = [
   {
     slug: 'cancun-coco-bongo-nightclub-experience',
     title: 'Cancun: Coco Bongo Nightclub Experience',
-    shortTitle: 'Cancun',
+    shortTitle: 'Coco Bongo Nightclub Experience',
     metaTitle: 'Cancun Tickets 2026',
     metaDescription: 'Book Cancun: Coco Bongo Nightclub Experience in Cancun. Instant confirmation, free cancellation on most options. Rated 4.2★ by 722 travellers.',
     description: 'Enjoy the spectacle of one of the most famous nightclubs in Latin America. Immerse yourself in a night at Coco Bongo and experience flying acrobats, live…',
@@ -367,7 +367,7 @@ export const tours: Tour[] = [
   {
     slug: 'cancun-hip-hop-sessions-party-boat-cruise',
     title: 'Cancun: Hip Hop Sessions Party Boat Cruise',
-    shortTitle: 'Cancun',
+    shortTitle: 'Hip Hop Sessions Party Boat Cruise',
     metaTitle: 'Cancun Tickets 2026',
     metaDescription: 'Book Cancun: Hip Hop Sessions Party Boat Cruise in Cancun. Instant confirmation, free cancellation on most options. Rated 4.7★ by 282 travellers.',
     description: 'Treat yourself to something special while in Cancun and hop aboard a hip hop party boat. Get ready to drink, swim, and dance during this fun experience…',
@@ -466,7 +466,7 @@ export const tours: Tour[] = [
   {
     slug: 'canc-n-coco-bongo-beach-party-experience',
     title: 'Cancún: Coco Bongo Beach Party Experience',
-    shortTitle: 'Cancún',
+    shortTitle: 'Coco Bongo Beach Party Experience',
     metaTitle: 'Cancún Tickets 2026',
     metaDescription: 'Book Cancún: Coco Bongo Beach Party Experience in Cancun. Instant confirmation, free cancellation on most options. Rated 4.2★ by 251 travellers.',
     description: 'Discover the Coco Bongo Beach Party on the shores of the Caribbean Sea. Expect non-stop partying with DJs and impressive performances by talented acrobats…',
@@ -565,7 +565,7 @@ export const tours: Tour[] = [
   {
     slug: 'cancun-jetski-and-snorkel-adventure',
     title: 'Cancun: Jetski and Snorkel Adventure',
-    shortTitle: 'Cancun',
+    shortTitle: 'Jetski and Snorkel Adventure',
     metaTitle: 'Cancun Tickets 2026',
     metaDescription: 'Book Cancun: Jetski and Snorkel Adventure in Cancun. Instant confirmation, free cancellation on most options. Rated 4.5★ by 117 travellers.',
     description: 'Discover the first and original jungle tour with snorkel in Cancun with the international showman in jetski',
@@ -598,7 +598,7 @@ export const tours: Tour[] = [
   {
     slug: 'isla-mujeres-catamaran-tour-with-open-bar-snorkeling-and-lun',
     title: 'Isla Mujeres: Catamaran Tour with Open Bar, Snorkeling and Lunch',
-    shortTitle: 'Isla Mujeres',
+    shortTitle: 'Catamaran Tour with Open Bar, Snorkeling and Lunch',
     metaTitle: 'Isla Mujeres Tickets 2026',
     metaDescription: 'Book Isla Mujeres: Catamaran Tour with Open Bar, Snorkeling and Lunch in Cancun. Instant confirmation, free cancellation on most options. Rated 4.3★ by 317…',
     description: 'Sail the waters of the majestic Caribbean Sea to Isla Mujeres and relax on one of its most spectacular beaches. Soak up the sun on board while enjoying…',
@@ -697,7 +697,7 @@ export const tours: Tour[] = [
   {
     slug: 'cancun-tulum-and-coba-with-cenote-cave-exploration-and-lunch',
     title: 'Cancun: Tulum & Coba with Cenote, Cave Exploration and Lunch',
-    shortTitle: 'Cancun',
+    shortTitle: 'Tulum & Coba with Cenote, Cave Exploration and Lunch',
     metaTitle: 'Cancun Tickets 2026',
     metaDescription: 'Book Cancun: Tulum & Coba with Cenote, Cave Exploration and Lunch in Cancun. Instant confirmation, free cancellation on most options. Rated 4.4★ by 278…',
     description: 'Enjoy a guided tour of Tulum & Coba Ruins on this day trip from Cancun or Riviera Maya. Seize the chance to dive into a cenote, swim through its caves…',
@@ -730,7 +730,7 @@ export const tours: Tour[] = [
   {
     slug: 'cancun-hop-on-hop-off-sightseeing-bus-tour',
     title: 'Cancun: Hop-On-Hop-Off Sightseeing Bus Tour',
-    shortTitle: 'Cancun',
+    shortTitle: 'Hop-On-Hop-Off Sightseeing Bus Tour',
     metaTitle: 'Cancun Tickets 2026',
     metaDescription: 'Book Cancun: Hop-On-Hop-Off Sightseeing Bus Tour in Cancun. Instant confirmation, free cancellation on most options. Rated 3.7★ by 294 travellers.',
     description: 'Discover the best of Cancun at your own pace on a fun hop-on, hop-off bus tour! Ride the centro (downtown) or the hotel zone circuits, and enjoy beaches…',
@@ -796,7 +796,7 @@ export const tours: Tour[] = [
   {
     slug: 'canc-n-cooking-class-and-optional-local-market-tour',
     title: 'Cancún: Cooking Class and Optional Local Market Tour',
-    shortTitle: 'Cancún',
+    shortTitle: 'Cooking Class and Optional Local Market Tour',
     metaTitle: 'Cancún Tickets 2026',
     metaDescription: 'Book Cancún: Cooking Class and Optional Local Market Tour in Cancun. Instant confirmation, free cancellation on most options. Rated 4.6★ by 144 travellers.',
     description: 'Learn the secrets of Mexican cuisine with a half-day tour that features a hands-on cooking lesson. Follow a simple step-by-step method to master Mexican…',
