@@ -1,0 +1,9 @@
+export const SITE_NAME = 'Best Cancun Tours';
+export const SITE_CITY = 'Cancun';
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.best-cancun-tours.com';
+export const SITE_DESCRIPTION = 'Discover the best tours, attractions, and experiences in Cancun. Book Chichén Itzá day trips, cenote tours, Tulum ruins, and Isla Mujeres catamarans with instant confirmation and free cancellation.';
+export const GYG_PARTNER_ID = 'LPT26IL';
+export const GYG_CAMPAIGN = 'best_cancun_tours';
+export const GYG_LOCATION_ID = '150';
+export const GA_ID = process.env.NEXT_PUBLIC_GA_ID || '';
+export const CONTENT_DATE = '2026-07-08';
